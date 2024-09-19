@@ -1,0 +1,1 @@
+clima de temperatura predictivo por cinco dias y autoaprendizaje con capa tiene una sola neurona, que produce la predicción final.
